@@ -1,0 +1,13 @@
+Word,POS,Gender,Entity Type,Context
+"आणि", "Conjunction", "Neutral/Not Applicable", "None", "संबंध जोडणे"
+"सूरज", "Noun", "Male", "Name", "सूरज एक व्यक्तीचे नाव आहे"
+"चला", "Verb", "Neutral/Not Applicable", "None", "कारवाई सुरू करणे"
+"संगीत", "Noun", "Neutral/Not Applicable", "Object", "संगीत एक वस्तू आहे"
+"मावळता", "Verb", "Neutral/Not Applicable", "None", "सूर्य अस्त होणे"
+"धूप", "Noun", "Neutral/Not Applicable", "Weather", "धूप एक हवामान स्थिती आहे"
+"सोमवार", "Noun", "Neutral/Not Applicable", "Date", "सप्ताहातील एक दिवस"
+"गोड", "Adjective", "Neutral/Not Applicable", "None", "वर्णनात्मक विशेषण"
+"तापमान", "Noun", "Neutral/Not Applicable", "Weather", "वातावरणातील एक स्थिती"
+"लंबा", "Adjective", "Neutral/Not Applicable", "None", "वर्णनात्मक विशेषण"
+"राज्य", "Noun", "Neutral/Not Applicable", "Location", "भौगोलिक स्थान"
+"खुश", "Adjective", "Neutral/Not Applicable", "None", "भावना दर्शविणारे"
